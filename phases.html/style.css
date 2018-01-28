@@ -21,5 +21,8 @@ h1 {
 	padding-top: 10px;
 }
 
-#btn {
+#rectangle-2 {
+	a: hover{
+		color: "red"
+	}
 }
