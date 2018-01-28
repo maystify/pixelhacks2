@@ -63,20 +63,20 @@
 	font-size: 16px;
 	margin: 25px;
 	border-radius: 10px;
-	border: 25px;
+	border: none;
 	font-family: 'Abel', sans-serif;
 }
 
 /* The container <div> - needed to position the dropdown content */
 .dropdown2 {
-	position: left;
+	position: center;
 	display: inline-block;
 }
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown2-content {
 	display: none;
-	position: relative;
+	position: inherit;
 	background-color: #ffffff;
 	min-width: 160px;
 	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -101,10 +101,10 @@
 /* Show the dropdown menu on hover */
 .dropdown2:hover .dropdown2-content {
 	display: block;
-	position: center;
+	position: fixed;
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown2:hover .dropbtn2 {
+.dropdown2:hover .dropbtn {
 	background-color: #ff9aae;
 }
