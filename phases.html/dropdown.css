@@ -51,7 +51,7 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-	background-color: white;
+	background-color: #ff9aae;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////////////////////*/
@@ -106,6 +106,6 @@
 }
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown2:hover .dropbtn {
-	background-color: #a9dcff;
+.dropdown2:hover .dropbtn2 {
+	background-color: #ff9aae;
 }

@@ -47,11 +47,19 @@ p {
 	color: black;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
+	text-align: center;
 }
 
 label {
 	font-family: sans-serif;
 	color: black;
+	s: 'Abel', sans-serif;
+	font-weight: lighter;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: #ffffff;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
