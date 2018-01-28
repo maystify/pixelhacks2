@@ -21,5 +21,9 @@ h1 {
 	padding-top: 10px;
 }
 
-#btn {
+p {
+	font-family: sans-serif;
+	color: #ffffff;
+	s: 'Abel', sans-serif;
+	font-weight: lighter;
 }
