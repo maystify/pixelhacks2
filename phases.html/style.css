@@ -8,12 +8,16 @@ h1 {
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
+label{
+	color: #fffff0;
+	font-family: sans-serif;
+}
 
 .rectangle {
 	color: #fffff0;
-	height: 30px;
+	height: 300px;
 	width: 300px;
-	background-color: #ffffff;
+	background-color: #a9dcff;
 	border-radius: 10px;
 	margin-bottom: 15px;
 	color: #a9dcff;
@@ -21,9 +25,5 @@ h1 {
 	padding-top: 10px;
 }
 
-p {
-	font-family: sans-serif;
-	color: #ffffff;
-	s: 'Abel', sans-serif;
-	font-weight: lighter;
+#btn {
 }
