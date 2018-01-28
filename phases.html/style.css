@@ -8,40 +8,12 @@ h1 {
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
-<<<<<<< HEAD
-.button {
-	color: #fffff0;
-	height: 30px;
-	width: 300px;
-	background-color: #ffffff;
-	border-radius: 10px;
-	margin-bottom: 15px;
-	color: #a9dcff;
-	font-family: 'Abel', sans-serif;
-	padding-top: 10px;
-	text-decoration: none;
-}
-=======
 label {
 	color: #fffff0;
 	font-family: sans-serif;
 }
 
->>>>>>> 89bfcad9d98933e28ed0fcc6ee43241f0abb4563
 .rectangle {
-	color: #fffff0;
-	height: 300px;
-	width: 300px;
-	background-color: #a9dcff;
-	border-radius: 10px;
-	margin-bottom: 15px;
-	color: #a9dcff;
-	font-family: 'Abel', sans-serif;
-	padding-top: 10px;
-	text-decoration: none;
-}
-
-.rectangle-3 {
 	color: #fffff0;
 	height: 30px;
 	width: 300px;
