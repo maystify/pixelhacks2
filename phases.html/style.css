@@ -4,12 +4,12 @@ body {
 
 h1 {
 	font-family: sans-serif;
-	color: #ffffff;
+	color: black;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
 label {
-	color: #fffff0;
+	color: black;
 	font-family: sans-serif;
 }
 
@@ -20,7 +20,7 @@ label {
 	background-color: #ffffff;
 	border-radius: 10px;
 	margin-bottom: 15px;
-	color: #a9dcff;
+	color: black;
 	font-family: 'Abel', sans-serif;
 	padding-top: 10px;
 	text-decoration: none;
@@ -44,14 +44,14 @@ label {
 
 p {
 	font-family: sans-serif;
-	color: #ffffff;
+	color: black;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
 
 label {
 	font-family: sans-serif;
-	color: #ff9aae;
+	color: black;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
