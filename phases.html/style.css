@@ -8,7 +8,7 @@ h1 {
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
-label{
+label {
 	color: #fffff0;
 	font-family: sans-serif;
 }
@@ -25,20 +25,16 @@ label{
 	padding-top: 10px;
 }
 
-<<<<<<< HEAD
-#btn {
-=======
-<<<<<<< HEAD
-#rectangle-2 {
-	a: hover{
-		color: "red"
-	}
-=======
 p {
 	font-family: sans-serif;
 	color: #ffffff;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
->>>>>>> 7b921b27accaeee0cff71322deb6dd904f5b14b2
->>>>>>> 3d8eb2555d524190c74bfeb05bf897790d33cd77
+}
+
+label {
+	font-family: sans-serif;
+	color: #ff9aae;
+	s: 'Abel', sans-serif;
+	font-weight: lighter;
 }
