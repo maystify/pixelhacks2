@@ -8,6 +8,7 @@ h1 {
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
 }
+<<<<<<< HEAD
 .button {
 	color: #fffff0;
 	height: 30px;
@@ -20,11 +21,18 @@ h1 {
 	padding-top: 10px;
 	text-decoration: none;
 }
+=======
+label {
+	color: #fffff0;
+	font-family: sans-serif;
+}
+
+>>>>>>> 89bfcad9d98933e28ed0fcc6ee43241f0abb4563
 .rectangle {
 	color: #fffff0;
-	height: 30px;
+	height: 300px;
 	width: 300px;
-	background-color: #ffffff;
+	background-color: #a9dcff;
 	border-radius: 10px;
 	margin-bottom: 15px;
 	color: #a9dcff;
@@ -46,16 +54,16 @@ h1 {
 	text-decoration: none;
 }
 
-<<<<<<< HEAD
-#rectangle-2 {
-	a: hover{
-		color: "red"
-	}
-=======
 p {
 	font-family: sans-serif;
 	color: #ffffff;
 	s: 'Abel', sans-serif;
 	font-weight: lighter;
->>>>>>> 7b921b27accaeee0cff71322deb6dd904f5b14b2
+}
+
+label {
+	font-family: sans-serif;
+	color: #ff9aae;
+	s: 'Abel', sans-serif;
+	font-weight: lighter;
 }

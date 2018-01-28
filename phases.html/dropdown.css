@@ -1,6 +1,6 @@
 /* Dropdown Button */
 .dropbtn {
-	background-color: #ff9aae;
+	background-color: #ffffff;
 	color: white;
 	padding: 16px;
 	font-size: 16px;
@@ -39,7 +39,7 @@
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-	background-color: #f1f1f1;
+	background-color: #ffffff;
 }
 
 /* Show the dropdown menu on hover */
@@ -50,14 +50,14 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-	background-color: #ff9aae;
+	background-color: #FFFFFF;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 /* Dropdown Button */
 .dropbtn2 {
-	background-color: #ff9aae;
+	background-color: #ffffff;
 	color: white;
 	padding: 16px;
 	font-size: 16px;
