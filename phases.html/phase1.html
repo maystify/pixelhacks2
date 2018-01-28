@@ -1,0 +1,38 @@
+//This is the first ever page a user gets on after downloading
+
+<!DOCTYPE html>
+
+    <head>
+      <title> This is a title</title>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <link href="https://fonts.googleapis.com/css?family=Abel|Dosis" rel="stylesheet">
+
+
+
+
+    </head>
+
+    <body>
+
+      <script>
+      function changeColor(id) {
+	var button = document.getElementById(id);
+
+	if (button.style.background == '#FF9AAE') {
+		button.style.background = '#FFFFFF';
+	} else {
+		button.style.background = '#FF9AAE';
+	}
+}
+</script>
+
+        <center>
+          <h1> WELCOME TO EYES.OPEN</h1>
+        </center>
+
+      <center>
+        <div class="rectangle" id="rectangle-2" onclick="changeColor('rectangle-2')">Get Started</div>
+          <div class="rectangle" id="rectangle-3" onclick="changeColor('rectangle-3')"></div>
+      </center>
+
+    </body>
