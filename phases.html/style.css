@@ -21,8 +21,16 @@ h1 {
 	padding-top: 10px;
 }
 
+<<<<<<< HEAD
 #rectangle-2 {
 	a: hover{
 		color: "red"
 	}
+=======
+p {
+	font-family: sans-serif;
+	color: #ffffff;
+	s: 'Abel', sans-serif;
+	font-weight: lighter;
+>>>>>>> 7b921b27accaeee0cff71322deb6dd904f5b14b2
 }
